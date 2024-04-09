@@ -1,5 +1,5 @@
-# Hola! Soy Juli #
-## Desarrollador de Software Frontend React ##
+# Hola! Soy Julián #
+## y soy Desarrollador de Software Frontend React ##
 
 
 👤 Apasionado por la tecnología con más de 1 año de experiencia en desarrollo de software. Combino mis habilidades de diseñador con desarrollo web para crear sitios web responsivos, funcionales, con accesibilidad y posicionamiento SEO.
