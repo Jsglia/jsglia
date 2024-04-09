@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hola! Soy Julián #
 
-<!--
-**Jsglia/jsglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👤 Apasionado por la tecnología con más de 1 año de experiencia en desarrollo de software. Combino mis habilidades de diseñador con desarrollo web para crear sitios web responsivos, funcionales, con accesibilidad y posicionamiento SEO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Me considero una persona sociable y positiva, disfruto del aprendizaje constante, trabajar en equipo y resolver problemas, además, soy muy detallista, lo que me permite identificar errores y trabajar con precisión y eficiencia.
+
+💻 Tengo muy buenas habilidades informáticas y de mecanografía.
+
+🎮 Disfruto del futbol, el gaming y viajar ✈️
+
+
+⚡ Tech Skills ⚡
+
+▪️ HTML5
+▪️ CSS Flex & Grid
+▪️ SASS
+▪️ Bootstrap
+▪️ Javascript
+▪️ React JS
+▪️ Typescript
+▪️ Git
+▪️ BEM & camelCase
+▪️ Ágile methodologies
+▪️ SEO & Accessibility pattern
+▪️ SQL
+▪️ Jira
+▪️ Microsoft Excel
+▪️ Adobe Ilustrator
+▪️ Adobe Photoshop
+▪️ Adobe Premiere Pro
